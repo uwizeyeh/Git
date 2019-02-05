@@ -6,7 +6,7 @@ Uwizeyimana Hulde
 
 ## Contact
 * Email:uwizeyimanahulde1@gmail.com
-* Tel:0782356579
+* Tel:0782356570
 
 ## Set up instruction
 * Visual studio code

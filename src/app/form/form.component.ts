@@ -38,7 +38,7 @@ import { Repo} from '../repo';
   templateUrl: './form.component.html',
   styleUrls: ['./form.component.css']
 })
-export class GitformComponent implements OnInit {
+export class formComponent implements OnInit {
 
   username= new User("");
   repos=new Repo(0,0,0,0,new Date());

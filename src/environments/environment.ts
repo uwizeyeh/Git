@@ -1,5 +1,5 @@
-import { access } from 'fs';
-import { tokenKey } from '@angular/core/src/view';
+// import { access } from 'fs';
+// import { tokenKey } from '@angular/core/src/view';
 
 // This file can be replaced during build by using the `fileReplacements` array.
 // `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
@@ -8,7 +8,7 @@ import { tokenKey } from '@angular/core/src/view';
 export const environment = {
   production: false,
   // apiUrl: 'https://api.github.com/users/',
-  api_key:"21e2607088e114d6f1555d2b174c7ec7e011748c",
+  api_key: '21e2607088e114d6f1555d2b174c7ec7e011748c',
   // apiRepokey: '/repos?access_token=21e2607088e114d6f1555d2b174c7ec7e011748c',
 
 };

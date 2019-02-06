@@ -60317,7 +60317,7 @@ var formComponent = /** @class */ /*@__PURE__*/ (function () {
     }
     formComponent.prototype.check = function () {
         var _this = this;
-        this.http.get("https://api.github.com/users/" + this.username.username + "?access_token=805b825f70a70163d75e6bc66fc71ea098c500d1")
+        this.http.get("https://api.github.com/users/" + this.username.username + "?access_token=4e506891c065d69bf641bbe51727e32d407658e2")
             .subscribe(function (data) {
             // console.log(data);
             _this.repos.public_repos = data.public_repos;

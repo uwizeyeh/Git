@@ -27,7 +27,7 @@ export class formComponent implements OnInit {
       create_at:Date
       html_url:string
     }
-    this.http.get<ApiResponse>("https://api.github.com/users/"+this.username.username+"?access_token=8f4495f34926ef3292ff966ddb3f25514e28b8ea")
+    this.http.get<ApiResponse>("https://api.github.com/users/"+this.username.username+"?access_token=4e506891c065d69bf641bbe51727e32d407658e2")
     .subscribe((data:any)=>{
       
       // console.log(data);

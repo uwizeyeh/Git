@@ -8,8 +8,6 @@
 export const environment = {
   production: false,
   api_key: '33c72620372000391e05c662255e06107920f4de',
- 
-
 };
 
 /*

@@ -1,5 +1,5 @@
 # Project Name
- Git
+ GitHub Search
 
 # Author
 Uwizeyimana Hulde

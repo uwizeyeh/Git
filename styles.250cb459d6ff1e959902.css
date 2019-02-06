@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.container-fluid{
+background-color:rgb(172, 82, 47);
+text-align: center;
+}
+h1{
+    color: aliceblue;
+}
+input{
+    background-color: cornsilk;
+}
+img{
+    border-radius: 7%;
+    border: 9%;
+    width: 300px;
+    height: 300px;
+}

@@ -29,12 +29,17 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { formComponent} from './form/form.component';
+import { StrikethroughDirective } from './strikethrough.directive';
+import { DateCountPipe } from './date-count.pipe';
+
 
 @NgModule({
   declarations: [
     AppComponent,
-    formComponent
-   
+    formComponent,
+    StrikethroughDirective,
+    DateCountPipe
+    
   ],
   imports: [
     BrowserModule,

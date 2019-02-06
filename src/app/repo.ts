@@ -4,7 +4,8 @@ export class Repo {
           public public_gists: number, 
           public  followers: number, 
           public following:number,
-          public create_at: Date) {}
+          public create_at: Date,
+          public html_url:string) {}
 }
 
 
